@@ -1,0 +1,29 @@
+body {
+	background: #000;
+	overflow: hidden;
+	height:480px;
+	margin:auto;
+	width:720px;
+}
+
+#theControls {
+	position:relative;
+	top:300px;
+}
+
+#theEnhancement {
+}
+
+#theButton {
+}
+
+#imageWrapper {
+	margin:0;
+	z-index:5;
+	height:480px;
+	width:720px;
+}
+
+.hidden {
+	display:none;
+}
